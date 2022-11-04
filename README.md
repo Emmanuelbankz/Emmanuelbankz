@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emmanuelbankz
-- 👀 I’m interested in anything code
+- 👀 I’m interested in anything code ...
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me on Twitter as https://twitter.com/emmio_j?t=ygNhPuTjH86iVsN3RQyAmA&s=09
